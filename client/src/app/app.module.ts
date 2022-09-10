@@ -17,7 +17,7 @@ import { ToastrModule } from 'ngx-toastr';
     HttpClientModule,
     BrowserAnimationsModule,
     ToastrModule.forRoot({
-      positionClass:'toast-bottom-right'
+      positionClass:'toastr-bottom-right'
     })
   ],
   providers: [],
